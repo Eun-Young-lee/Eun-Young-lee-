@@ -1,8 +1,0 @@
----
-layout: post
-title: WELCOME 
----
-
-My name is Eun Young Lee.
-It's my first task with Github.
-
